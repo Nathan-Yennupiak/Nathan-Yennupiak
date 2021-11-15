@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://www.instagram.com/p/CWIREg5sAo3/">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Nathan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 Twitter Badge Instagram Badge
@@ -15,7 +15,7 @@ My Mantra is : Inspring People, transforming lives. When I'm away from my PC, I 
 What is Up with me?:
 
 👨🏻‍💻 I’m currently working on something cool;
-🚀 I’m currently Backend development with NodeJS), Date Structures and Algorithms and Theory of Computation;
+🚀 I’m currently learning Backend development with Node-Js), GetX state management in Flutter and Api Integration;
 💬 Ask me about anything, I am happy to help;
 📫 How to reach me: nathanyennupiak1@gmail.com;
 
