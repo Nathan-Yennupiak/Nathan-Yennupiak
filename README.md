@@ -1,16 +1,30 @@
-### Hi there 👋
+Hello there, I'm Nathan Yennupiak
 
-<!--
-**Nathan-Yennupiak/Nathan-Yennupiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Twitter Badge Instagram Badge
 
-Here are some ideas to get you started:
+Glad to see you here!   
+I am a full-stack software developer, and creative writer and graphic designer. I love finding solutions to problems, speaking and tutoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a developer, I pay attention to details in order to find appropraaite solutions to solving problems and building new things. 
+My Mantra is : Inspring People, transforming lives. When I'm away from my PC, I read books, write and listen to podcasts.
+
+
+Talking about Personal Stuffs:
+
+👨🏻‍💻 I’m currently working on something cool;
+🚀 I’m currently Backend development with NodeJS), Date Structures and Algorithms and Theory of Computation;
+💬 Ask me about anything, I am happy to help;
+📫 How to reach me: nathanyennupiak1@gmail.com;
+
+🔧 Technologies & Tools
+-----------------------------
+                
+
+📊 This Week I Spent My Time On:
+
+----------------------
+
+📈 My GitHub Stats:
+--------------------
+
+ 
