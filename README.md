@@ -1,6 +1,4 @@
-<img src="https://www.instagram.com/p/CWIREg5sAo3/">
-
-<h2> Hey there! I'm Nathan.</h2>
+<h2> Hi, there! I'm Nathan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 Twitter Badge Instagram Badge
