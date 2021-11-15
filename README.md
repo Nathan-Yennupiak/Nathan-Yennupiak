@@ -9,7 +9,7 @@ As a developer, I pay attention to details in order to find appropraaite solutio
 My Mantra is : Inspring People, transforming lives. When I'm away from my PC, I read books, write and listen to podcasts.
 
 
-Talking about Personal Stuffs:
+What is Up with me?:
 
 👨🏻‍💻 I’m currently working on something cool;
 🚀 I’m currently Backend development with NodeJS), Date Structures and Algorithms and Theory of Computation;
