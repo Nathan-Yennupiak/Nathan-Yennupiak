@@ -1,7 +1,7 @@
 <h2> Hi, there! I'm Nathan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse) Badge Instagram Badge
+Twitter Badge Instagram Badge
 
 Glad to see you here!   
 I am a software developer, creative writer and graphic designer. I love finding solutions to problems, speaking and tutoring.
