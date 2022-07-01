@@ -3,8 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 Twitter Badge Instagram Badge
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
 Glad to see you here!   
 I am a software developer, creative writer and graphic designer. I love finding solutions to problems, speaking and tutoring.
 
