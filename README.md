@@ -1,7 +1,5 @@
 <h2> Hi, there! I'm Nathan.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 Glad to see you here!   
 I am a software developer, creative writer and graphic designer. I love finding solutions to problems, speaking and tutoring.
 
