@@ -23,18 +23,12 @@ What is Up with me?:
 
 <h3>GitHub Stats:</h3>
 ---------------------------------
-![](https://github-readme-stats.vercel.app/api?username=Nathan-Yennupiak&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nathan-Yennupiak&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Yennupiak&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3>GitHub Trophies</h3>
----------------------------------
+## ðŸ† GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nathan-Yennupiak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3>Random Dev Quote</h3>
----------------------------------
+### âœï¸ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nathan-Yennupiak&icon=2&color=4)](https://visitcount.itsvg.in)
-.
