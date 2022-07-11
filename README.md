@@ -14,6 +14,14 @@ What is Up with me?:
 💬 Ask me about anything, I am happy to help;
 📫 How to reach me: nathanyennupiak1@gmail.com;
 
+<h3> My Social media <h3>
+------------------------------
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nathan Yennupiak)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nathanyennupiak) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nathan Yennupiak ) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@nathanyennupiak) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nathanyennupiak)
+
 🔧 <h3>Technologies & Tools</h3>
 -----------------------------
       
@@ -40,6 +48,7 @@ What is Up with me?:
          
 
 📊 This Week I Spent My Time On:
+ building my Portfolio website 
 
 ----------------------
 
@@ -47,3 +56,11 @@ What is Up with me?:
 --------------------
 
  
+## ðŸ† GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nathan-Yennupiak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### âœï¸ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nathan-Yennupiak&icon=2&color=4)](https://visitcount.itsvg.in)
