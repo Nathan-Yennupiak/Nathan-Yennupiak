@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am a software developer, creative writer and graphic designer. I love finding solutions to problems, speaking and tutoring.<br><br>As a developer, I pay attention to details in order to find appropraaite solutions to solving problems and building new things. My Mantra is : Inspring People, transforming lives. When I'm away from my PC, I read books, write and listen to podcasts.<br><br>What is Up with me?:<br><br>👨🏻‍💻 I’m currently working on something cool; 
-🚀 I’m currently learning Backend development with Node-Js), GetX state management in Flutter and Api Integration; 
+I am a software developer, creative writer and graphic designer. I love finding solutions to problems, speaking and tutoring.<br><br>As a developer, I pay attention to details in order to find appropraaite solutions to solving problems and building new things. My Mantra is : Inspring People, transforming lives. When I'm away from my PC, I read books, write and listen to podcasts.<br><br>What is Up with me?:<br><br>
+
+👨🏻‍💻 I’m currently learning Backend development with Node-Js), GetX state management in Flutter and Api Integration; 
 💬 Ask me about anything, I am happy to help; 
 📫 How to reach me: nathanyennupiak1@gmail.com;
 
