@@ -3,7 +3,7 @@ I am a software developer, creative writer and graphic designer. I love finding 
 
 👨🏻‍💻 I’m currently improving my Backend development with Node-JS, GetX state management in Flutter and Api Integration skills.
 💬 Ask me about anything, I am happy to help; 
-📫 How to reach me: nathanyennupiak1@gmail.com;
+📫 How to reach me: dev@nathanyennupiak.com;
 
 
 ## 🌐 Socials:
