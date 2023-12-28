@@ -1,9 +1,15 @@
 # 💫 About Me:
-I am a software developer, creative writer and graphic designer. I love finding solutions to problems, speaking and tutoring.<br><br>As a developer, I pay attention to details in order to find appropraaite solutions to solving problems and building new things. My Mantra is : Inspring People, transforming lives. When I'm away from my PC, I read books, write and listen to podcasts.<br><br>What is Up with me?:<br><br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nathan
+==============================================================================================================================
 
-👨🏻‍💻 I’m currently improving my Backend development with Node-JS, GetX state management in Flutter and Api Integration skills.
-💬 Ask me about anything, I am happy to help; 
-📫 How to reach me: dev@nathanyennupiak.com;
+Software Engineer
+-----------------
+
+I am a versatile professional skilled in software development, creative writing, and graphic design. My strength lies in problem-solving, where I prioritize attention to detail to create effective solutions and innovative projects. Guided by the mantra "Inspiring People, Transforming Lives," I approach my work with a commitment to making a positive impact. Away from my computer, I engage in reading, writing, and podcast listening to further enrich my knowledge and perspectives. Currently, I am focused on enhancing my backend development skills, specifically in Node.js, FastAPI with Python, Laravel, and refining my API integration capabilities.
+
+* 🌍  I'm based in Cape coast, Ghana.
+* 🖥️  See my portfolio at [nathanyennupiak.com/dev](http://.)
+* ✉️  You can contact me at [dev@nathanyennupiak.com](mailto:dev@nathanyennupiak.com)
 
 
 ## 🌐 Socials:
