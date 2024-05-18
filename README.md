@@ -6,7 +6,7 @@ Software Engineer
 
 I am a versatile professional skilled in software development, creative writing, and graphic design. My strength lies in problem-solving, where I prioritize attention to detail to create effective solutions and innovative projects. Guided by the mantra "Inspiring People, Transforming Lives," I approach my work with a commitment to making a positive impact. Away from my computer, I engage in reading, writing, and podcast listening to further enrich my knowledge and perspectives. Currently, I am focused on enhancing my backend development skills, specifically in Node.js, FastAPI with Python, Laravel, and refining my API integration capabilities.
 
-* 🌍  I'm based in Cape coast, Ghana.
+* 🌍  I'm based in Ghana.
 * 🖥️  See my portfolio at [nathanyennupiak.com/dev](http://.)
 * ✉️  You can contact me at [dev@nathanyennupiak.com](mailto:dev@nathanyennupiak.com)
 
