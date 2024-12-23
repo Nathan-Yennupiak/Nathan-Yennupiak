@@ -1,7 +1,7 @@
 # 💫 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nathan
 ============================================================================
 
-Software Engineer
+Software Engineer / Researcher
 -----------------
 
 I believe in the power of technology to transform lives and spark meaningful change. Whether I’m building seamless front-end interfaces, robust back-end systems, or customizing WordPress sites, my goal is always the same: to create solutions that inspire, engage, and make an impact.
