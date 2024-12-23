@@ -4,7 +4,13 @@
 Software Engineer
 -----------------
 
-I am a versatile professional skilled in software development, creative writing, and graphic design. My strength lies in problem-solving, where I prioritize attention to detail to create effective solutions and innovative projects. Guided by the mantra "Inspiring People, Transforming Lives," I approach my work with a commitment to making a positive impact. Away from my computer, I engage in reading, writing, and podcast listening to further enrich my knowledge and perspectives. Currently, I am focused on enhancing my backend development skills, specifically in Node.js, FastAPI with Python, Laravel, and refining my API integration capabilities.
+I believe in the power of technology to transform lives and spark meaningful change. Whether I’m building seamless front-end interfaces, robust back-end systems, or customizing WordPress sites, my goal is always the same: to create solutions that inspire, engage, and make an impact.
+
+As a full-stack developer, I’m equally passionate about designing intuitive user experiences with React, HTML, CSS, and JavaScript, as I am about architecting scalable back-end systems with Node.js, FastAPI (Python), and Laravel. I also specialize in WordPress development, bringing dynamic, user-friendly websites to life for a diverse range of needs.
+
+Currently, as a Research Assistant and MPhil Computer Science student, I’m deepening my expertise in cutting-edge technologies while bridging theory and practice in real-world applications. Outside of coding, I’m always learning, whether through reading, writing, or exploring new ideas through podcasts, constantly evolving to stay ahead of the curve.
+
+Everything I do is guided by one mantra: "Inspiring People, Transforming Lives." It's not just about the tools I use, but about the impact I can make through innovative, thoughtful solutions.
 
 * 🌍  I'm based in Ghana.
 * 🖥️  See my portfolio at [nathanyennupiak.com/dev](http://.)
